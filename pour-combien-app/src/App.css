@@ -56,14 +56,10 @@
   flex-direction: row;
 }
 
-.debut, .fin{
-  width: 50%;
-  text-align: center;
-}
-
-.select-debut, .select-fin{
+.select-fin{
   width: 40px;
   height: 30px;
+  margin:auto;
 }
 
 
